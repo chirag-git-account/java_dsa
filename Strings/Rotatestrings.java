@@ -1,4 +1,4 @@
-package Strings;
+package java_dsa.Strings;
 
 public class Rotatestrings {
     public static void main(String[] args) {

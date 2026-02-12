@@ -1,4 +1,4 @@
-package Strings;
+package java_dsa.Strings;
 import java.util.Arrays;
 public class Longestprefix {
     public static void main(String[] args) {

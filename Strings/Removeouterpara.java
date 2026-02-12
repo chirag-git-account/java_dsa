@@ -1,4 +1,4 @@
-package Strings;
+package java_dsa.Strings;
 import java.util.*;
 
 class Removeouterpara {
